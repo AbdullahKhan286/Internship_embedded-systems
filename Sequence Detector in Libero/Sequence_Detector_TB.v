@@ -1,4 +1,4 @@
-module Moore_Seq_TB;
+module Moore_Seq_TB
 
     reg IN, R, CK;
     wire [7:0] OUT;
